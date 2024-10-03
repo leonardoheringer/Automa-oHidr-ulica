@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\bin\Debug\net8.0\Automação Hidraulica.exe
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\bin\Debug\net8.0\Automação Hidraulica.deps.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\bin\Debug\net8.0\Automação Hidraulica.runtimeconfig.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\bin\Debug\net8.0\Automação Hidraulica.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\bin\Debug\net8.0\Automação Hidraulica.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.sourcelink.json
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\refint\Automação Hidraulica.dll
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.pdb
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\Automação Hidraulica.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Informatica Tarde\Leonardo Heringer\AutomacaoHidraulica\Automação Hidraulica\obj\Debug\net8.0\ref\Automação Hidraulica.dll
